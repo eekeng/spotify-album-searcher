@@ -9,7 +9,7 @@ function Logo() {
 function TitleText(){
   return (
     <div className="TitleText">
-    <h1>Spotify Album Search</h1>
+    <h1>Spotify Album Searcher</h1>
     </div>
   ) 
 }
